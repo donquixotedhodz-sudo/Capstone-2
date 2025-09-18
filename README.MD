@@ -2,6 +2,10 @@ install COMPOSER;
 
 composer install;
 
+or 
+
+https://getcomposer.org/download/
+
 composer require phpmailer/phpmailer
 
 or download 
