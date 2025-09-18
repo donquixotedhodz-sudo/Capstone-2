@@ -3,7 +3,7 @@
         'name' => 'fourjs/ticket-system',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '05ec62c023dd2c28055f91722f653524284359fe',
+        'reference' => '974c531bf6502639ac6c5a62452445188c66c4a0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'fourjs/ticket-system' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '05ec62c023dd2c28055f91722f653524284359fe',
+            'reference' => '974c531bf6502639ac6c5a62452445188c66c4a0',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
