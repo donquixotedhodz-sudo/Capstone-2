@@ -1,6 +1,6 @@
 <?php
 // Database configuration
-define('DB_HOST', 'db.fr-pari1.bengt.wasmernet.com');
+define('DB_HOST', 'localhost');
 define('DB_PORT', '10272');
 define('DB_NAME', 'fourjs_db');
 define('DB_USER', 'bfbfab267c2f800012510f566a43');
